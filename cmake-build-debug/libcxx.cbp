@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="libcxx"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\cmake\Modules\;CMake Files\include\;CMake Files\lib\;CMake Files\benchmarks\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\benchmarks\;CMake Files\cmake-build-debug\benchmarks\benchmark-libcxx\;CMake Files\cmake-build-debug\benchmarks\benchmark-libcxx\tmp\;CMake Files\test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 install/local"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 install"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 list_install_components"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cxx-headers">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/include"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 cxx-headers"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install-cxx-headers">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/include"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 install-cxx-headers"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install-cxx-headers-stripped">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/include"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 install-cxx-headers-stripped"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install-libcxx-headers">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/include"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 install-libcxx-headers"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install-libcxx-headers-stripped">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/include"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 install-libcxx-headers-stripped"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\include\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cxx_shared">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib/c++.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_ALLOW_MSC_VER_MISMATCH"/>
+					<Add option="-D_ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH"/>
+					<Add option="-D_CRTBLD"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-D_CRT_STDIO_ISO_WIDE_SPECIFIERS"/>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 cxx_shared"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cxx_shared/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib/c++.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_ALLOW_MSC_VER_MISMATCH"/>
+					<Add option="-D_ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH"/>
+					<Add option="-D_CRTBLD"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-D_CRT_STDIO_ISO_WIDE_SPECIFIERS"/>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 cxx_shared/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cxx_static">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib/libc++.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_ALLOW_MSC_VER_MISMATCH"/>
+					<Add option="-D_ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH"/>
+					<Add option="-D_CRTBLD"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-D_CRT_STDIO_ISO_WIDE_SPECIFIERS"/>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 cxx_static"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cxx_static/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib/libc++.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_ALLOW_MSC_VER_MISMATCH"/>
+					<Add option="-D_ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH"/>
+					<Add option="-D_CRTBLD"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-D_CRT_STDIO_ISO_WIDE_SPECIFIERS"/>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 cxx_static/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cxx">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 cxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cxx_experimental">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib/libc++experimental.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 cxx_experimental"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cxx_experimental/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib/libc++experimental.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 cxx_experimental/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install-cxx">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 install-cxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install-cxx-stripped">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 install-cxx-stripped"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install-libcxx">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 install-libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\lib\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="filesystem_libcxx">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/filesystem.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 filesystem_libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="filesystem_libcxx/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/filesystem.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 filesystem_libcxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="algorithms.partition_point_libcxx">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/algorithms.partition_point.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 algorithms.partition_point_libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="algorithms.partition_point_libcxx/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/algorithms.partition_point.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 algorithms.partition_point_libcxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="google-benchmark-libcxx">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 google-benchmark-libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_libcxx">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/string.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 string_libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_libcxx/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/string.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 string_libcxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cxx-benchmarks">
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 cxx-benchmarks"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="algorithms_libcxx">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/algorithms.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 algorithms_libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="algorithms_libcxx/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/algorithms.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 algorithms_libcxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ordered_set_libcxx">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/ordered_set.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 ordered_set_libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ordered_set_libcxx/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/ordered_set.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 ordered_set_libcxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="function_libcxx">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/function.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 function_libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="function_libcxx/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/function.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 function_libcxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stringstream_libcxx">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/stringstream.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 stringstream_libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stringstream_libcxx/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/stringstream.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 stringstream_libcxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unordered_set_operations_libcxx">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/unordered_set_operations.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 unordered_set_operations_libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unordered_set_operations_libcxx/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/unordered_set_operations.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 unordered_set_operations_libcxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="util_smartptr_libcxx">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/util_smartptr.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 util_smartptr_libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="util_smartptr_libcxx/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/util_smartptr.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 util_smartptr_libcxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vector_operations_libcxx">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/vector_operations.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 vector_operations_libcxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vector_operations_libcxx/fast">
+				<Option output="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/vector_operations.libcxx.out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_LIBCPP_BUILDING_LIBRARY"/>
+					<Add option="-D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER"/>
+					<Add option="-DNDEBUG"/>
+					<Add option="-D_DEBUG"/>
+					<Add directory="C:/projects/ainglev2/aingle-libcxx-mirror/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 vector_operations_libcxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/algorithms.bench.cpp">
+			<Option target="algorithms_libcxx"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/algorithms.partition_point.bench.cpp">
+			<Option target="algorithms.partition_point_libcxx"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/filesystem.bench.cpp">
+			<Option target="filesystem_libcxx"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/function.bench.cpp">
+			<Option target="function_libcxx"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/ordered_set.bench.cpp">
+			<Option target="ordered_set_libcxx"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/string.bench.cpp">
+			<Option target="string_libcxx"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/stringstream.bench.cpp">
+			<Option target="stringstream_libcxx"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/unordered_set_operations.bench.cpp">
+			<Option target="unordered_set_operations_libcxx"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/util_smartptr.bench.cpp">
+			<Option target="util_smartptr_libcxx"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/vector_operations.bench.cpp">
+			<Option target="vector_operations_libcxx"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/algorithm.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/any.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/bind.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/charconv.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/chrono.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/condition_variable.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/debug.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/exception.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/experimental/memory_resource.cpp">
+			<Option target="cxx_experimental"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/functional.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/future.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/hash.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/ios.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/iostream.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/locale.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/memory.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/mutex.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/new.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/onto.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/optional.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/random.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/regex.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/shared_mutex.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/stdexcept.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/string.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/strstream.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/support/win32/locale_win32.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/support/win32/support.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/support/win32/thread_win32.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/system_error.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/thread.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/typeinfo.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/utility.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/valarray.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/variant.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/src/vector.cpp">
+			<Option target="cxx_shared"/>
+			<Option target="cxx_static"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/cmake/config-ix.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/cmake/Modules/HandleCompilerRT.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/cmake/Modules/HandleLibCXXABI.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/cmake/Modules/HandleLibcxxFlags.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/cmake/Modules/HandleOutOfTreeLLVM.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/cmake/Modules/MacroEnsureOutOfSourceBuild.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/include/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\include\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/lib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/benchmarks/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\benchmarks\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/tmp/google-benchmark-libcxx-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\benchmarks\benchmark-libcxx\tmp\"/>
+		</Unit>
+		<Unit filename="C:/projects/ainglev2/aingle-libcxx-mirror/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

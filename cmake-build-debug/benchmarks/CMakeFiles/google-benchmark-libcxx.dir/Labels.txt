@@ -1,0 +1,13 @@
+# Target labels
+ google-benchmark-libcxx
+# Source files and their labels
+C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/CMakeFiles/google-benchmark-libcxx
+C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/CMakeFiles/google-benchmark-libcxx.rule
+C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/CMakeFiles/google-benchmark-libcxx-complete.rule
+C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/src/google-benchmark-libcxx-stamp/google-benchmark-libcxx-install.rule
+C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/src/google-benchmark-libcxx-stamp/google-benchmark-libcxx-mkdir.rule
+C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/src/google-benchmark-libcxx-stamp/google-benchmark-libcxx-download.rule
+C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/src/google-benchmark-libcxx-stamp/google-benchmark-libcxx-update.rule
+C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/src/google-benchmark-libcxx-stamp/google-benchmark-libcxx-patch.rule
+C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/src/google-benchmark-libcxx-stamp/google-benchmark-libcxx-configure.rule
+C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/src/google-benchmark-libcxx-stamp/google-benchmark-libcxx-build.rule

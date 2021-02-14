@@ -1,0 +1,110 @@
+C:\Users\carlo\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\projects\ainglev2\aingle-libcxx-mirror
+-- The CXX compiler identification is MSVC 19.16.27045.0
+-- The C compiler identification is MSVC 19.16.27045.0
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x86/cl.exe
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x86/cl.exe - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x86/cl.exe
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x86/cl.exe - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring for standalone build.
+CMake Warning at cmake/Modules/HandleOutOfTreeLLVM.cmake:57 (message):
+  UNSUPPORTED LIBCXX CONFIGURATION DETECTED: llvm-config not found and
+  LLVM_PATH not defined.
+
+  Reconfigure with -DLLVM_CONFIG_PATH=path/to/llvm-config or
+  -DLLVM_PATH=path/to/llvm-source-root.
+Call Stack (most recent call first):
+  cmake/Modules/HandleOutOfTreeLLVM.cmake:81 (find_llvm_parts)
+  cmake/Modules/HandleOutOfTreeLLVM.cmake:139 (configure_out_of_tree_llvm)
+  CMakeLists.txt:35 (include)
+
+
+-- Found PythonInterp: C:/Python39/python.exe (found version "3.9.1") 
+-- Configuring for MSVC
+-- Performing Test LIBCXX_SUPPORTS_NODEFAULTLIBS_FLAG
+-- Performing Test LIBCXX_SUPPORTS_NODEFAULTLIBS_FLAG - Failed
+-- Performing Test LIBCXX_HAS_WX_FLAG
+-- Performing Test LIBCXX_HAS_WX_FLAG - Success
+-- Performing Test LIBCXX_HAS_NO_WX_FLAG
+-- Performing Test LIBCXX_HAS_NO_WX_FLAG - Success
+-- Performing Test LIBCXX_HAS_EHSC_FLAG
+-- Performing Test LIBCXX_HAS_EHSC_FLAG - Success
+-- Performing Test LIBCXX_HAS_NO_EHS_FLAG
+-- Performing Test LIBCXX_HAS_NO_EHS_FLAG - Success
+-- Performing Test LIBCXX_HAS_NO_EHA_FLAG
+-- Performing Test LIBCXX_HAS_NO_EHA_FLAG - Success
+-- Performing Test LIBCXX_HAS_NO_GR_FLAG
+-- Performing Test LIBCXX_HAS_NO_GR_FLAG - Success
+-- Performing Test LIBCXX_SUPPORTS_STD_EQ_CXX11_FLAG
+-- Performing Test LIBCXX_SUPPORTS_STD_EQ_CXX11_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_STD_COLON_CXX11_FLAG
+-- Performing Test LIBCXX_SUPPORTS_STD_COLON_CXX11_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_NOSTDINCXX_FLAG
+-- Performing Test LIBCXX_SUPPORTS_NOSTDINCXX_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_FVISIBILITY_INLINES_HIDDEN_FLAG
+-- Performing Test LIBCXX_SUPPORTS_FVISIBILITY_INLINES_HIDDEN_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_WALL_FLAG
+-- Performing Test LIBCXX_SUPPORTS_WALL_FLAG - Success
+-- Performing Test LIBCXX_SUPPORTS_WEXTRA_FLAG
+-- Performing Test LIBCXX_SUPPORTS_WEXTRA_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_W_FLAG
+-- Performing Test LIBCXX_SUPPORTS_W_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_WWRITE_STRINGS_FLAG
+-- Performing Test LIBCXX_SUPPORTS_WWRITE_STRINGS_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_WNO_UNUSED_PARAMETER_FLAG
+-- Performing Test LIBCXX_SUPPORTS_WNO_UNUSED_PARAMETER_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_WNO_LONG_LONG_FLAG
+-- Performing Test LIBCXX_SUPPORTS_WNO_LONG_LONG_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_WERROR_EQ_RETURN_TYPE_FLAG
+-- Performing Test LIBCXX_SUPPORTS_WERROR_EQ_RETURN_TYPE_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_WEXTRA_SEMI_FLAG
+-- Performing Test LIBCXX_SUPPORTS_WEXTRA_SEMI_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_WNO_ERROR_FLAG
+-- Performing Test LIBCXX_SUPPORTS_WNO_ERROR_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_EHSC_FLAG
+-- Performing Test LIBCXX_SUPPORTS_EHSC_FLAG - Success
+-- Performing Test LIBCXX_SUPPORTS_STD_EQ_CXX14_FLAG
+-- Performing Test LIBCXX_SUPPORTS_STD_EQ_CXX14_FLAG - Failed
+-- Performing Test LIBCXX_SUPPORTS_STD_EQ_CXX17_FLAG
+-- Performing Test LIBCXX_SUPPORTS_STD_EQ_CXX17_FLAG - Failed
+-- Adding Benchmark: algorithms.bench.cpp
+-- Adding Benchmark: algorithms.partition_point.bench.cpp
+-- Adding Benchmark: filesystem.bench.cpp
+-- Adding Benchmark: function.bench.cpp
+-- Adding Benchmark: ordered_set.bench.cpp
+-- Adding Benchmark: string.bench.cpp
+-- Adding Benchmark: stringstream.bench.cpp
+-- Adding Benchmark: unordered_set_operations.bench.cpp
+-- Adding Benchmark: util_smartptr.bench.cpp
+-- Adding Benchmark: vector_operations.bench.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug
+
+Cannot get compiler information:
+	Compiler exited with error code 2: "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe" @C:\Users\carlo\AppData\Local\Temp\response-file10484599303710651324 C:\Users\carlo\AppData\Local\Temp\compiler-file2762725368611521559 | @response-file10484599303710651324=/TP -DNDEBUG -D_DEBUG -D_LIBCPP_BUILDING_LIBRARY -D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER -IC:\projects\ainglev2\aingle-libcxx-mirror\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /Ob0 /Od /RTC1 -nostdinc++ -isystem C:/projects/ainglev2/aingle-libcxx-mirror/include -std=c++1z -O2 -IC:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/include -IC:/projects/ainglev2/aingle-libcxx-mirror/test/support -Wno-user-defined-literals /Be /Bd /EP
+	Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.16.27045 para x86
+	(C) Microsoft Corporation. Todos los derechos reservados.
+	
+	all:
+		@cd C:\projects\ainglev2\aingle-libcxx-mirror\cmake-build-debug\benchmarks
+		@set INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt
+		@set LIB=C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x86;
+		@set CL=
+		@set _CL_=
+		@set LINK=
+		C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe @<< C:\Users\carlo\AppData\Local\Temp\compiler-file2762725368611521559
+	/TP -DNDEBUG -D_DEBUG -D_LIBCPP_BUILDING_LIBRARY -D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER -IC:\projects\ainglev2\aingle-libcxx-mirror\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /Ob0 /Od /RTC1 -nostdinc++ -isystem C:/projects/ainglev2/aingle-libcxx-mirror/include -std=c++1z -O2 -IC:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/include -IC:/projects/ainglev2/aingle-libcxx-mirror/test/support -Wno-user-defined-literals /Be /Bd /EP<<
+	
+	cl /TP -DNDEBUG -D_DEBUG -D_LIBCPP_BUILDING_LIBRARY -D_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER -IC:\projects\ainglev2\aingle-libcxx-mirror\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /Ob0 /Od /RTC1 -nostdinc++ -isystem C:/projects/ainglev2/aingle-libcxx-mirror/include -std=c++1z -O2 -IC:/projects/ainglev2/aingle-libcxx-mirror/cmake-build-debug/benchmarks/benchmark-libcxx/include -IC:/projects/ainglev2/aingle-libcxx-mirror/test/support -Wno-user-defined-literals /Be /Bd /EP
+	cl : L¡nea de comandos warning D9025 : invalidando '/Od' con '/O2'
+	cl : L¡nea de comandos error D8016 : las opciones de l¡nea de comandos '/RTC1' y '/O2' son incompatibles
+	
+	

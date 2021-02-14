@@ -1,0 +1,1 @@
+cmd='C:/Users/carlo/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/bin/cmake/win/bin/cmake.exe;-GCodeBlocks - NMake Makefiles;-C<TMP_DIR>/google-benchmark-libcxx-cache-$<CONFIG>.cmake;<SOURCE_DIR><SOURCE_SUBDIR>'
